@@ -1,4 +1,4 @@
-# Byte_ML_Task2
+# Vehicle Detection and Classification Using Computer Vision
 Hey Everyone Navdeep this side :)
 first I installed  coco names "https://github.com/pjreddie/darknet/blob/master/data/coco.names"
 then I clone yolov5.weights
