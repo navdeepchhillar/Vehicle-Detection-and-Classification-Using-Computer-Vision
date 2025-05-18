@@ -1,5 +1,7 @@
 Heyy!!
-Vehicle Detection and Counting Using YOLOv5 and OpenCV
+
+Vehicle Detection and Counting Using YOLOv5 and OpenCV.
+
 This project performs real-time vehicle detection, tracking, and counting in specific polygonal regions of a video using a custom-trained YOLOv5 model, OpenCV, and object tracking techniques.
 
 Features :-
