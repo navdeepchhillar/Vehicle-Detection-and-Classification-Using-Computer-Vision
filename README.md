@@ -12,7 +12,7 @@
     - Visualizes detection confidence across frames.    
     - Saves processed video with bounding boxes, labels, and counts.
 
-First you have to install important dependencies :-
+## First you have to install important dependencies :-
 
     - pip install opencv-contrib-python
     - pip install numpy
@@ -20,11 +20,11 @@ First you have to install important dependencies :-
     - pip install matplotlib
     - pip install filterpy
 
-Now open your git bash and :- 
+## Now open your git bash and :- 
 
     git clone https://github.com/abewley/sort.git
 
-Folder Content :-
+## Folder Content :-
 
     .
     ├── coordinates.ipynb         # GUI to select custom polygon regions on video frame
@@ -35,11 +35,11 @@ Folder Content :-
     ├── output.mp4                # Output video with annotations
     └── README.md
 
-Itinerary :-
+## Itinerary :-
 
     1. Update directory in codes and install all necessary dependencies
     2. Run coordinates.ipynb, select polygon and copy all the coordinates.
     3. Paste coordinates in video.ipynb and run the code.
     4. After a little output video would be stored to the registered directory
 
-That's it!!
+### That's it!!
